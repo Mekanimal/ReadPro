@@ -1,0 +1,53 @@
+.opendyslexic,
+.opendyslexic *,
+.opendyslexic p,
+.opendyslexic ul,
+.opendyslexic ol,
+.opendyslexic dl,
+.opendyslexic table,
+.opendyslexic blockquote,
+.opendyslexic pre,
+.opendyslexic form,
+.opendyslexic input,
+.opendyslexic textarea,
+.opendyslexic button,
+.opendyslexic select,
+.opendyslexic label {
+  font-family: 'OpenDyslexic-Regular' !important;
+}
+
+.opendyslexic b,
+.opendyslexic strong,
+.opendyslexic h1,
+.opendyslexic h2,
+.opendyslexic h3,
+.opendyslexic h4,
+.opendyslexic h5,
+.opendyslexic h6,
+.opendyslexic th {
+  font-family: 'OpenDyslexic-Bold' !important;
+}
+
+.opendyslexic i,
+.opendyslexic em {
+  font-family: 'OpenDyslexic-Italic' !important;
+}
+
+.opendyslexic b i,
+.opendyslexic b em,
+.opendyslexic strong i,
+.opendyslexic strong em {
+  font-family: 'OpenDyslexic-BoldItalic' !important;
+}
+
+.bionic-reading .bionic-first {
+  font-weight: bold;
+}
+
+.bionic-reading .bionic-middle {
+  opacity: 1;
+}
+
+.bionic-reading .bionic-last {
+  opacity: 1;
+}
